@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScrollLayoutWithBlur</string>
+
+    <string name="expense_item0">菜单1</string>
+    <string name="expense_item1">菜单2</string>
+    <string name="expense_item2">菜单3</string>
+</resources>

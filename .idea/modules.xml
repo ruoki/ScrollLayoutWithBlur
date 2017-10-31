@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ScrollLayoutWithBlur.iml" filepath="$PROJECT_DIR$/ScrollLayoutWithBlur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scrolllayoutwithblurlib/scrolllayoutwithblurlib.iml" filepath="$PROJECT_DIR$/scrolllayoutwithblurlib/scrolllayoutwithblurlib.iml" />
+    </modules>
+  </component>
+</project>
